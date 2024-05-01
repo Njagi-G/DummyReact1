@@ -83,6 +83,13 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2024-05-02",
+      "description": "Rubberbands and Socks",
+      "category": "Fashion ",
+      "amount": "100",
+      "id": 13
     }
   ]
 }
